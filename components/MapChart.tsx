@@ -16,7 +16,7 @@ import {
 } from "react-simple-maps";
 
 import styles from "../styles/Home.module.css";
-import allStates from "../data/allstates.json";
+import allStates from "../data/allStates.json";
 import { stat } from "fs/promises";
 import { AnyARecord } from "dns";
 
