@@ -1,13 +1,13 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from 'next'
-
+import PoliceKillingsUS from '../../data/PoliceKillingsUS.json'
 type Data = {
-  name: string
+  PoliceKillingsUS: any
 }
 
 export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
-  res.status(200).json({ name: 'John Doe' })
+  res.status(200).json( {PoliceKillingsUS} )
 }

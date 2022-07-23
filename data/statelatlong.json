@@ -1,0 +1,409 @@
+[
+  {
+    "State": "AL",
+    "Latitude": 32.6010112,
+    "Longitude": -86.6807365,
+    "City": "Alabama",
+    "coordinates":[32.6010112,-86.6807365],
+    "markerOffset": -30
+  },
+  {
+    "State": "AK",
+    "Latitude": 61.3025006,
+    "Longitude": -158.7750198,
+    "City": "Alaska",
+    "coordinates":[61.3025006,-158.7750198],
+    "markerOffset": 30
+  },
+  {
+    "State": "AZ",
+    "Latitude": 34.1682185,
+    "Longitude": -111.930907,
+    "City": "Arizona",
+    "coordinates":[34.1682185,-111.930907],
+    "markerOffset": 15
+  },
+  {
+    "State": "AR",
+    "Latitude": 34.7519275,
+    "Longitude": -92.1313784,
+    "City": "Arkansas",
+    "coordinates":[34.7519275,-92.1313784],
+    "markerOffset": 15
+  },
+  {
+    "State": "CA",
+    "Latitude": 37.2718745,
+    "Longitude": -119.2704153,
+    "City": "California",
+    "coordinates":[37.2718745,-119.2704153]
+  },
+  {
+    "State": "CO",
+    "Latitude": 38.9979339,
+    "Longitude": -105.550567,
+    "City": "Colorado",
+    "coordinates":[38.9979339,-105.550567],
+    "markerOffset": 30
+  },
+  {
+    "State": "CT",
+    "Latitude": 41.5187835,
+    "Longitude": -72.757507,
+    "City": "Connecticut",
+    "coordinates":[41.5187835,-72.757507],
+    "markerOffset": 15
+  },
+  {
+    "State": "DE",
+    "Latitude": 39.145251,
+    "Longitude": -75.4189206,
+    "City": "Delaware",
+    "coordinates":[39.145251,-75.4189206],
+    "markerOffset": 15
+  },
+  {
+    "State": "DC",
+    "Latitude": 38.8993487,
+    "Longitude": -77.0145666,
+    "City": "District of Columbia",
+    "coordinates":[38.8993487,-77.0145666],
+    "markerOffset": 15
+  },
+  {
+    "State": "FL",
+    "Latitude": 27.9757279,
+    "Longitude": -83.8330166,
+    "City": "Florida",
+    "coordinates":[27.9757279,-83.8330166],
+    "markerOffset": 30
+  },
+  {
+    "State": "GA",
+    "Latitude": 32.6781248,
+    "Longitude": -83.2229757,
+    "City": "Georgia",
+    "coordinates":[32.6781248,-83.2229757],
+    "markerOffset": 15
+  },
+  {
+    "State": "HI",
+    "Latitude": 20.46,
+    "Longitude": -157.505,
+    "City": "Hawaii",
+    "coordinates":[20.46,-157.505],
+    "markerOffset": 15
+  },
+  {
+    "State": "ID",
+    "Latitude": 45.4945756,
+    "Longitude": -114.1424303,
+    "City": "Idaho",
+    "coordinates":[45.4945756,-114.1424303],
+    "markerOffset": 15
+  },
+  {
+    "State": "IL",
+    "Latitude": 39.739318,
+    "Longitude": -89.504139,
+    "City": "Illinois",
+    "coordinates":[39.739318,-89.504139],
+    "markerOffset": 15
+  },
+  {
+    "State": "IN",
+    "Latitude": 39.7662195,
+    "Longitude": -86.441277,
+    "City": "Indiana",
+    "coordinates":[39.7662195,-86.441277],
+    "markerOffset": 15
+  },
+  {
+    "State": "IA",
+    "Latitude": 41.9383166,
+    "Longitude": -93.389798,
+    "City": "Iowa",
+    "coordinates":[41.9383166,-93.389798],
+    "markerOffset": 15
+  },
+  {
+    "State": "KS",
+    "Latitude": 38.4987789,
+    "Longitude": -98.3200779,
+    "City": "Kansas",
+    "coordinates":[38.4987789,-98.3200779],
+    "markerOffset": 15
+  },
+  {
+    "State": "KY",
+    "Latitude": 37.8222935,
+    "Longitude": -85.7682399,
+    "City": "Kentucky",
+    "coordinates":[37.8222935,-85.7682399],
+    "markerOffset": 15
+  },
+  {
+    "State": "LA",
+    "Latitude": 30.9733766,
+    "Longitude": -91.4299097,
+    "City": "Louisiana",
+    "coordinates":[30.9733766,-91.4299097],
+    "markerOffset": 15
+  },
+  {
+    "State": "ME",
+    "Latitude": 45.2185133,
+    "Longitude": -69.0148656,
+    "City": "Maine",
+    "coordinates":[45.2185133,-69.0148656],
+    "markerOffset": 15
+  },
+  {
+    "State": "MD",
+    "Latitude": 38.8063524,
+    "Longitude": -77.2684162,
+    "City": "Maryland",
+    "coordinates":[38.8063524,-77.2684162],
+    "markerOffset": 15
+  },
+  {
+    "State": "MA",
+    "Latitude": 42.0629398,
+    "Longitude": -71.718067,
+    "City": "Massachusetts",
+    "coordinates":[42.0629398,-71.718067],
+    "markerOffset": 15
+  },
+  {
+    "State": "MI",
+    "Latitude": 44.9435598,
+    "Longitude": -86.4158049,
+    "City": "Michigan",
+    "coordinates":[44.9435598,-86.4158049],
+    "markerOffset": 15
+  },
+  {
+    "State": "MN",
+    "Latitude": 46.4418595,
+    "Longitude": -93.3655146,
+    "City": "Minnesota",
+    "coordinates":[46.4418595,-93.3655146],
+    "markerOffset": 15
+  },
+  {
+    "State": "MS",
+    "Latitude": 32.5851062,
+    "Longitude": -89.8772196,
+    "City": "Mississippi",
+    "coordinates":[32.5851062,-89.8772196],
+    "markerOffset": 15
+  },
+  {
+    "State": "MO",
+    "Latitude": 38.3046615,
+    "Longitude": -92.437099,
+    "City": "Missouri",
+    "coordinates":[38.3046615,-92.437099],
+    "markerOffset": 15
+  },
+  {
+    "State": "MT",
+    "Latitude": 46.6797995,
+    "Longitude": -110.044783,
+    "City": "Montana",
+    "coordinates":[46.6797995,-110.044783],
+    "markerOffset": 15
+  },
+  {
+    "State": "NE",
+    "Latitude": 41.5008195,
+    "Longitude": -99.680902,
+    "City": "Nebraska",
+    "coordinates":[41.5008195,-99.680902],
+    "markerOffset": 15
+  },
+  {
+    "State": "NV",
+    "Latitude": 38.502032,
+    "Longitude": -117.0230604,
+    "City": "Nevada",
+    "coordinates":[38.502032,-117.0230604],
+    "markerOffset": 15
+  },
+  {
+    "State": "NH",
+    "Latitude": 44.0012306,
+    "Longitude": -71.5799231,
+    "City": "New Hampshire",
+    "coordinates":[44.0012306,-71.5799231],
+    "markerOffset": 15
+  },
+  {
+    "State": "NJ",
+    "Latitude": 40.1430058,
+    "Longitude": -74.7311156,
+    "City": "New Jersey",
+    "coordinates":[40.1430058,-74.7311156],
+    "markerOffset": 15
+  },
+  {
+    "State": "NM",
+    "Latitude": 34.1662325,
+    "Longitude": -106.0260685,
+    "City": "New Mexico",
+    "coordinates":[34.1662325,-106.0260685],
+    "markerOffset": 15
+  },
+  {
+    "State": "NY",
+    "Latitude": 40.7056258,
+    "Longitude": -73.97968,
+    "City": "New York",
+    "coordinates":[40.7056258,-73.97968],
+    "markerOffset": 15
+  },
+  {
+    "State": "NC",
+    "Latitude": 35.2145629,
+    "Longitude": -79.8912675,
+    "City": "North Carolina",
+    "coordinates":[35.2145629,-79.8912675],
+    "markerOffset": 15
+  },
+  {
+    "State": "ND",
+    "Latitude": 47.4678819,
+    "Longitude": -100.3022655,
+    "City": "North Dakota",
+    "coordinates":[47.4678819,-100.3022655],
+    "markerOffset": 15
+  },
+  {
+    "State": "OH",
+    "Latitude": 40.1903624,
+    "Longitude": -82.6692525,
+    "City": "Ohio",
+    "coordinates":[40.1903624,-82.6692525],
+    "markerOffset": 15
+  },
+  {
+    "State": "OK",
+    "Latitude": 35.3097654,
+    "Longitude": -98.7165585,
+    "City": "Oklahoma",
+    "coordinates":[35.3097654,-98.7165585],
+    "markerOffset": 15
+  },
+  {
+    "State": "OR",
+    "Latitude": 44.1419049,
+    "Longitude": -120.5380993,
+    "City": "Oregon",
+    "coordinates":[44.1419049,-120.5380993],
+    "markerOffset": 15
+  },
+  {
+    "State": "PA",
+    "Latitude": 40.9945928,
+    "Longitude": -77.6046984,
+    "City": "Pennsylvania",
+    "coordinates":[40.9945928,-77.6046984],
+    "markerOffset": 15
+  },
+  {
+    "State": "RI",
+    "Latitude": 41.5827282,
+    "Longitude": -71.5064508,
+    "City": "Rhode Island",
+    "coordinates":[41.5827282,-71.5064508],
+    "markerOffset": 15
+  },
+  {
+    "State": "SC",
+    "Latitude": 33.62505,
+    "Longitude": -80.9470381,
+    "City": "South Carolina",
+    "coordinates":[33.62505,-80.9470381],
+    "markerOffset": 15
+  },
+  {
+    "State": "SD",
+    "Latitude": 44.2126995,
+    "Longitude": -100.2471641,
+    "City": "South Dakota",
+    "coordinates":[44.2126995,-100.2471641],
+    "markerOffset": 15
+  },
+  {
+    "State": "TN",
+    "Latitude": 35.830521,
+    "Longitude": -85.9785989,
+    "City": "Tennessee",
+    "coordinates":[35.830521,-85.9785989],
+    "markerOffset": 15
+  },
+  {
+    "State": "TX",
+    "Latitude": 31.1693363,
+    "Longitude": -100.0768425,
+    "City": "Texas",
+    "coordinates":[31.1693363,-100.0768425],
+    "markerOffset": 15
+  },
+  {
+    "State": "UT",
+    "Latitude": 39.4997605,
+    "Longitude": -111.547028,
+    "City": "Utah",
+    "coordinates":[39.4997605,-111.547028],
+    "markerOffset": 15
+  },
+  {
+    "State": "VT",
+    "Latitude": 43.8717545,
+    "Longitude": -72.4477828,
+    "City": "Vermont",
+    "coordinates":[43.8717545,72.4477828],
+    "markerOffset": 15
+  },
+  {
+    "State": "VA",
+    "Latitude": 38.0033855,
+    "Longitude": -79.4587861,
+    "City": "Virginia",
+    "coordinates":[38.0033855,-79.4587861],
+    "markerOffset": -30
+  },
+  {
+    "State": "WA",
+    "Latitude": 38.8993487,
+    "Longitude": -77.0145665,
+    "City": "Washington",
+    "coordinates":[38.8993487,-77.0145665],
+    "markerOffset": 15
+  },
+  {
+    "State": "WV",
+    "Latitude": 38.9201705,
+    "Longitude": -80.1816905,
+    "City": "West Virginia",
+    "coordinates":[38.9201705,-80.1816905],
+    "markerOffset": 15
+  },
+  {
+    "State": "WI",
+    "Latitude": 44.7862968,
+    "Longitude": -89.8267049,
+    "City": "Wisconsin",
+    "coordinates":[44.7862968,-89.8267049],
+    "markerOffset": 15
+  },
+  {
+    "State": "WY",
+    "Latitude": 43.000325,
+    "Longitude": -107.5545669,
+    "City": "Wyoming",
+    "coordinates":[43.000325,-107.5545669],
+    "markerOffset": 15
+  }
+]
