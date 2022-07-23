@@ -38,7 +38,7 @@ const Home: React.FC<StateProps> = ({stateData}) => {
 };
 
 export async function getServerSideProps() {
-  const state_res = await fetch('http://localhost:3000/api/states')
+  const state_res = await fetch('https://statistic-six.vercel.app/api/states')
   const stateData = await state_res.json()
   //const announcements = await loadPosts()
   //announcements?filters[category][$eq]=cat
