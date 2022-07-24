@@ -29,7 +29,8 @@ const Home: React.FC<StateProps> = ({stateData}) => {
         <h3 className={styles.title}>
           <a href="#">Killing statistic in USA</a>
         </h3>
-        <p style={{marginBottom:0,color:'#ffa812',fontFamily: 'Edu TAS Beginner'}}>2015-2017 years</p>
+        <p style={{marginBottom:0,color:'#1c352d',fontFamily: 'Edu TAS Beginner'}}>2015-2017 years</p>
+        <p style={{marginBottom:0,color:'#1c352d',fontFamily: 'Edu TAS Beginner',fontSize:14,letterSpacing:3}}>Click or hover dot for info</p>
         <MapChart stateData={stateData}  />
       </main>
       
@@ -38,6 +39,7 @@ const Home: React.FC<StateProps> = ({stateData}) => {
 };
 
 export async function getServerSideProps() {
+  //http://localhost:3000
   const state_res = await fetch('https://statistic-six.vercel.app/api/states')
   const stateData = await state_res.json()
   //const announcements = await loadPosts()

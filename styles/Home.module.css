@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;700&display=swap');
 .container {
   padding: 0 2rem;
-  background-color: #483c32;
+  background-color: #0892d0;
 }
 
 .main {
@@ -12,13 +12,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #483c32;
+  
 }
 
 
 
 .title a {
-  color:#ffa812;
+  color:#1c352d;
   text-decoration: none;
   font-family: 'Edu TAS Beginner', cursive;
   font-weight: bold;
